@@ -9,7 +9,7 @@
   Do NOT put your admin token or GitHub token in this public website file.
 */
 window.LUXE_WEBSITE_CONFIG = {
-  CONTENT_API_BASE: 'https://soft-souffle-efab41.netlify.app/cms/.app/api',
+  CONTENT_API_BASE: 'https://soft-souffle-efab41.netlify.app/api',
   SITE_NAME: 'SHREE',
   WHATSAPP_NUMBER: '9779868800001',
   INSTAGRAM_URL: '',
