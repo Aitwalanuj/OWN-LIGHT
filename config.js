@@ -11,7 +11,7 @@
 window.LUXE_WEBSITE_CONFIG = {
   CONTENT_API_BASE: 'https://soft-souffle-efab41.netlify.app/api',
   SITE_NAME: 'SHREE',
-  WHATSAPP_NUMBER: '9779868800001',
+  WHATSAPP_NUMBER: '9779868857011',
   INSTAGRAM_URL: '',
   DEFAULT_MESSAGE: 'Hello, I want to inquire about your boutique products.'
 };
